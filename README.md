@@ -23,7 +23,28 @@ A JavaScript library for rotating elements using CSS3.
 $ npm i css.rotate.js
 ```
 
+## Example
+
+```js
+// Dependencies
+var CSSRotate = require("css.rotate.js");
+
+// Rotate to 42 degrees
+CSSRotate(".some-class", 42);
+
+```
+
 ## Documentation
+
+### `CSSRotate(elm, angle)`
+Rotate an element.
+
+#### Params
+- **String|Element|NodeList** `elm`: A stringified query selector, an element or a node list.
+- **Number** `angle`: A number representing the rotate value (in degrees).
+
+#### Return
+- **Element** First selected element.
 
 ## How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
