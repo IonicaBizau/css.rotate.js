@@ -2,7 +2,7 @@
   "name": "css.rotate.js",
   "version": "1.0.0",
   "description": "A JavaScript library for rotating elements using CSS3.",
-  "main": "lib/css.rotate.js",
+  "main": "lib/index.js",
   "directories": {
     "example": "example"
   },
@@ -18,6 +18,9 @@
     "rotate",
     "javascript"
   ],
+  "dependencies": {
+      "css-transform": "1.0.0"
+  },
   "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
   "license": "KINDLY",
   "bugs": {
