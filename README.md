@@ -5,7 +5,7 @@ A JavaScript library for rotating elements using CSS3.
 ## Installation
 
 ```sh
-$ npm i -g css.rotate.js
+$ npm i css.rotate.js
 ```
 
 ## Example
