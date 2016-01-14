@@ -1,6 +1,6 @@
-# css.rotate.js [![Support this project][donate-now]][paypal-donations]
+# css.rotate.js [![PayPal](https://img.shields.io/badge/%24-paypal-f39c12.svg)][paypal-donations] [![Version](https://img.shields.io/npm/v/css.rotate.js.svg)](https://www.npmjs.com/package/css.rotate.js) [![Downloads](https://img.shields.io/npm/dt/css.rotate.js.svg)](https://www.npmjs.com/package/css.rotate.js) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
 
-A JavaScript library for rotating elements using CSS3.
+> A JavaScript library for rotating elements using CSS3.
 
 ## Installation
 
