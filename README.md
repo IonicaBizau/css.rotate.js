@@ -1,14 +1,18 @@
+
 # css.rotate.js [![PayPal](https://img.shields.io/badge/%24-paypal-f39c12.svg)][paypal-donations] [![Version](https://img.shields.io/npm/v/css.rotate.js.svg)](https://www.npmjs.com/package/css.rotate.js) [![Downloads](https://img.shields.io/npm/dt/css.rotate.js.svg)](https://www.npmjs.com/package/css.rotate.js) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
 
 > A JavaScript library for rotating elements using CSS3.
 
-## Installation
+## :cloud: Installation
 
 ```sh
 $ npm i --save css.rotate.js
 ```
 
-## Example
+
+## :clipboard: Example
+
+
 
 ```js
 // Dependencies
@@ -18,7 +22,8 @@ var CSSRotate = require("css.rotate.js");
 CSSRotate(".some-class", 42);
 ```
 
-## Documentation
+## :memo: Documentation
+
 
 ### `CSSRotate(elm, angle)`
 Rotate an element.
@@ -30,13 +35,13 @@ Rotate an element.
 #### Return
 - **Element** First selected element.
 
-## How to contribute
+
+
+## :yum: How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
 
-## Where is this library used?
-If you are using this library in one of your projects, add it in this list. :sparkles:
 
-## License
+## :scroll: License
 
 [MIT][license] © [Ionică Bizău][website]
 

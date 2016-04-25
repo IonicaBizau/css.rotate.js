@@ -1,6 +1,6 @@
 {
   "name": "css.rotate.js",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "description": "A JavaScript library for rotating elements using CSS3.",
   "main": "lib/index.js",
   "directories": {
@@ -26,5 +26,16 @@
   "bugs": {
     "url": "https://github.com/IonicaBizau/css.rotate.js/issues"
   },
-  "homepage": "https://github.com/IonicaBizau/css.rotate.js"
+  "homepage": "https://github.com/IonicaBizau/css.rotate.js",
+  "files": [
+    "bin/",
+    "app/",
+    "lib/",
+    "dist/",
+    "src/",
+    "resources/",
+    "menu/",
+    "cli.js",
+    "index.js"
+  ]
 }
