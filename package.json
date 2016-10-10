@@ -1,6 +1,6 @@
 {
   "name": "css.rotate.js",
-  "version": "1.2.3",
+  "version": "1.2.4",
   "description": "A JavaScript library for rotating elements using CSS3.",
   "main": "lib/index.js",
   "directories": {
