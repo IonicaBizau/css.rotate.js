@@ -10,7 +10,11 @@
 ## :cloud: Installation
 
 ```sh
-$ npm i --save css.rotate.js
+# Using npm
+npm install --save css.rotate.js
+
+# Using yarn
+yarn add css.rotate.js
 ```
 
 
