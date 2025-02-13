@@ -1,6 +1,6 @@
 {
   "name": "css.rotate.js",
-  "version": "1.2.13",
+  "version": "1.2.14",
   "description": "A JavaScript library for rotating elements using CSS3.",
   "main": "lib/index.js",
   "directories": {
@@ -38,6 +38,8 @@
     "menu/",
     "cli.js",
     "index.js",
+    "index.d.ts",
+    "package-lock.json",
     "bloggify.js",
     "bloggify.json",
     "bloggify/"
